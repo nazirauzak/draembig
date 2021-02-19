@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+.img{
+width: 50%;
+margin: auto;
+}
+.container{
+    position: relative;
+}
+
+.dream{
+    color:#ffffcd ;
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
